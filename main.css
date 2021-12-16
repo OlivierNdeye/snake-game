@@ -1,0 +1,13 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+body .logo{
+    color: red;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
